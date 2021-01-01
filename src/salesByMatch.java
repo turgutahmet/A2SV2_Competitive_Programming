@@ -1,10 +1,10 @@
-
+//https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
 import java.util.ArrayList;
-import java.util.HashMap;
 
 public class salesByMatch {
 
     public static void main(String []args){
+
         int n=9;
         int [] ar = {10,20,20,10,10,30,50,10,20};
         ArrayList<Integer> index = new ArrayList<Integer>();
